@@ -4,7 +4,7 @@ import Head from "next/head";
 
 export default function Home() {
   return (
-    <div style={{ margin: "0", padding: "0", background: "#000" }}>
+    <div>
       <Head>
         <title>Country Flags</title>
         <meta name="description" content="Get country flags" />
