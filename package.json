@@ -1,0 +1,19 @@
+{
+  "name": "defence-labs.fm",
+  "version": "1.0.0",
+  "description": "Welcome to the official defence-labs.live Work Playlist, only on defence-labs.live",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/defence-labs/.fm.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/defence-labs/.fm/issues"
+  },
+  "homepage": "https://github.com/defence-labs/.fm#readme"
+}
